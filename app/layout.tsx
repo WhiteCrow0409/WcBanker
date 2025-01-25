@@ -23,9 +23,9 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "WcBankers",
-  description: "Student friendly Modern banking Solution",
+  description: "Student friendly Modern banking System",
   icons:{
-    icon:'/icons/logob.svg'
+    icon:'/icons/logob.png'
   }
 };
 

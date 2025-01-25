@@ -296,8 +296,9 @@
   }
 
   .form-link {
-    @apply text-14 cursor-pointer font-medium text-bankGradient;
-  }
+    @apply text-yellow-500 cursor-pointer font-medium text-bankGradient;
+}
+
 
   /* Payment Transfer */
   .payment-transfer {
