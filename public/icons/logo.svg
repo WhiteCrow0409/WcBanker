@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="900" height="900">
+  <!-- W and c letters -->
+  <text x="40" y="120" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="black">
+    W
+  </text>
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="80" font-weight="normal" fill="gold">
+    c
+    <g transform="translate(50, 60)">
+      <rect x="0" y="0" width="60" height="10" fill="gold" />
+    </g>
+  </text>
+</svg>
